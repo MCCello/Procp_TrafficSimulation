@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tileinfo>
+    <grids>
+        <grid lanes="1">
+            <roadposition x="80" y="120"/>
+            <roadposition x="80" y="105"/>
+            <roadposition x="80" y="95"/>
+            <roadposition x="80" y="85"/>
+            <roadposition x="80" y="75"/>
+            <roadposition x="80" y="65"/>
+            <roadposition x="80" y="55"/>
+            <roadposition x="80" y="45"/>
+            <roadposition x="80" y="30"/>
+            <roadposition x="70" y="30"/>
+            <roadposition x="60" y="30"/>
+            <roadposition x="50" y="30"/>
+            <roadposition x="40" y="30"/>
+            <roadposition x="30" y="30"/>
+            <roadposition x="20" y="30"/>
+            <roadposition x="0" y="30"/>
+            
+            
+            <roadposition x="0" y="80"/>
+            <roadposition x="15" y="80"/>
+            <roadposition x="30" y="80"/>
+            <roadposition x="30" y="90"/>
+            <roadposition x="30" y="100"/>
+            <roadposition x="30" y="110"/>
+            <roadposition x="30" y="120"/>
+            
+        </grid>
+        <grid lanes="2">
+          <!--right angle southbound left lane-->
+            <roadposition x="0" y="70"/>
+            <roadposition x="15" y="70"/>
+            <roadposition x="30" y="70"/>
+            <roadposition x="45" y="70"/>
+            <roadposition x="45" y="80"/>
+            <roadposition x="45" y="90"/>
+            <roadposition x="45" y="100"/>
+            <roadposition x="45" y="110"/>
+            <roadposition x="45" y="120"/>
+          <!--right angle southbound right lane-->
+            <roadposition x="0" y="100"/>
+            <roadposition x="10" y="100"/>
+            <roadposition x="20" y="100"/>
+            <roadposition x="20" y="107"/>
+            <roadposition x="20" y="115"/>
+            <roadposition x="20" y="120"/>
+          <!--right angle eastbound right lane-->
+            <roadposition x="100" y="120"/>
+            <roadposition x="100" y="109"/>
+            <roadposition x="100" y="99"/>
+            <roadposition x="100" y="89"/>
+            <roadposition x="100" y="79"/>
+            <roadposition x="100" y="69"/>
+            <roadposition x="100" y="59"/>
+            <roadposition x="100" y="49"/>
+            <roadposition x="100" y="39"/>
+            <roadposition x="100" y="29"/>
+            <roadposition x="100" y="25"/>
+            <roadposition x="100" y="20"/>
+            <roadposition x="90" y="20"/>
+            <roadposition x="80" y="20"/>
+            <roadposition x="70" y="20"/>
+            <roadposition x="60" y="20"/>
+            <roadposition x="50" y="20"/>
+            <roadposition x="40" y="20"/>
+            <roadposition x="30" y="20"/>
+            <roadposition x="20" y="20"/>
+            <roadposition x="10" y="20"/>
+            <roadposition x="0" y="20"/>
+          <!--right angle eastbound left lane-->
+            <roadposition x="70" y="120"/>
+            <roadposition x="70" y="109"/>
+            <roadposition x="70" y="99"/>
+            <roadposition x="70" y="89"/>
+            <roadposition x="70" y="79"/>
+            <roadposition x="70" y="69"/>
+            <roadposition x="70" y="60"/>
+            <roadposition x="70" y="52"/>
+            <roadposition x="70" y="45"/>
+            <roadposition x="65" y="45"/>
+            <roadposition x="56" y="45"/>
+            <roadposition x="47" y="45"/>
+            <roadposition x="38" y="45"/>
+            <roadposition x="29" y="45"/>
+            <roadposition x="20" y="45"/>
+            <roadposition x="10" y="45"/>
+            <roadposition x="0" y="45"/>
+        </grid>
+        <grid lanes="3">
+          <!--right angle southbound rightmost lane-->
+            <roadposition x="0" y="103"/>
+            <roadposition x="10" y="103"/>
+            <roadposition x="13" y="103"/>
+            <roadposition x="13" y="110"/>
+            <roadposition x="13" y="120"/>
+            <!--right angle southbound middle lane-->
+            <roadposition x="0" y="86"/>
+            <roadposition x="10" y="86"/>
+            <roadposition x="20" y="86"/>
+            <roadposition x="30" y="86"/>
+            <roadposition x="33" y="86"/>
+            <roadposition x="33" y="95"/>
+            <roadposition x="33" y="105"/>
+            <roadposition x="33" y="115"/>
+            <roadposition x="33" y="120"/>
+            <!--right angle southbound rightmost lane-->
+            <roadposition x="0" y="67"/>
+            <roadposition x="10" y="67"/>
+            <roadposition x="21" y="67"/>
+            <roadposition x="31" y="67"/>
+            <roadposition x="41" y="67"/>
+            <roadposition x="52" y="67"/>
+            <roadposition x="52" y="74"/>
+            <roadposition x="52" y="84"/>
+            <roadposition x="52" y="94"/>
+            <roadposition x="52" y="104"/>
+            <roadposition x="52" y="114"/>
+            <roadposition x="52" y="120"/>
+            <!--right angle westbound leftmost lane -->
+            <roadposition x="67" y="120"/>
+            <roadposition x="67" y="110"/>
+            <roadposition x="67" y="100"/>
+            <roadposition x="67" y="90"/>
+            <roadposition x="67" y="80"/>
+            <roadposition x="67" y="72"/>
+            <roadposition x="67" y="63"/>
+            <roadposition x="67" y="52"/>
+            <roadposition x="57" y="52"/>
+            <roadposition x="49" y="52"/>
+            <roadposition x="40" y="52"/>
+            <roadposition x="30" y="52"/>
+            <roadposition x="20" y="52"/>
+            <roadposition x="10" y="52"/>
+            <roadposition x="0" y="52"/>
+          <!--right angle westbound middle lane -->
+            <roadposition x="86" y="120"/>
+            <roadposition x="86" y="110"/>
+            <roadposition x="86" y="100"/>
+            <roadposition x="86" y="90"/>
+            <roadposition x="86" y="80"/>
+            <roadposition x="86" y="70"/>
+            <roadposition x="86" y="60"/>
+            <roadposition x="86" y="50"/>
+            <roadposition x="86" y="45"/>
+            <roadposition x="86" y="40"/>
+            <roadposition x="86" y="33"/>
+            <roadposition x="80" y="33"/>
+            <roadposition x="70" y="33"/>
+            <roadposition x="60" y="33"/>
+            <roadposition x="50" y="33"/>
+            <roadposition x="40" y="33"/>
+            <roadposition x="30" y="33"/>
+            <roadposition x="20" y="33"/>
+            <roadposition x="10" y="33"/>
+            <roadposition x="0" y="33"/>
+          <!--right angle westbound rightmost lane -->
+            <roadposition x="103" y="120"/>
+            <roadposition x="103" y="110"/>
+            <roadposition x="103" y="100"/>
+            <roadposition x="103" y="90"/>
+            <roadposition x="103" y="80"/>
+            <roadposition x="103" y="70"/>
+            <roadposition x="103" y="60"/>
+            <roadposition x="103" y="50"/>
+            <roadposition x="103" y="40"/>
+            <roadposition x="103" y="30"/>
+            <roadposition x="103" y="20"/>
+            <roadposition x="103" y="13"/>
+            <roadposition x="94" y="13"/>
+            <roadposition x="84" y="13"/>
+            <roadposition x="74" y="13"/>
+            <roadposition x="64" y="13"/>
+            <roadposition x="54" y="13"/>
+            <roadposition x="44" y="13"/>
+            <roadposition x="34" y="13"/>
+            <roadposition x="24" y="13"/>
+            <roadposition x="14" y="13"/>
+            <roadposition x="0" y="13"/>
+        </grid>
+    </grids>
+    <pathList>
+        <paths lanes="1">
+            <path>
+              <roadposition x="80" y="120"/>
+              <roadposition x="80" y="105"/>
+              <roadposition x="80" y="95"/>
+              <roadposition x="80" y="85"/>
+              <roadposition x="80" y="75"/>
+              <roadposition x="80" y="65"/>
+              <roadposition x="80" y="55"/>
+              <roadposition x="80" y="45"/>
+              <roadposition x="80" y="30"/>
+              <roadposition x="70" y="30"/>
+              <roadposition x="60" y="30"/>
+              <roadposition x="50" y="30"/>
+              <roadposition x="40" y="30"/>
+              <roadposition x="30" y="30"/>
+              <roadposition x="20" y="30"/>
+              <roadposition x="0" y="30"/>
+            </path>
+            <path>
+              <roadposition x="0" y="80"/>
+              <roadposition x="15" y="80"/>
+              <roadposition x="30" y="80"/>
+              <roadposition x="30" y="90"/>
+              <roadposition x="30" y="100"/>
+              <roadposition x="30" y="110"/>
+              <roadposition x="30" y="120"/>
+            </path>
+        </paths>
+        <paths lanes="2">
+            <path>
+              <!--right angle southbound left lane-->
+              <roadposition x="0" y="70"/>
+              <roadposition x="15" y="70"/>
+              <roadposition x="30" y="70"/>
+              <roadposition x="45" y="70"/>
+              <roadposition x="45" y="80"/>
+              <roadposition x="45" y="90"/>
+              <roadposition x="45" y="100"/>
+              <roadposition x="45" y="110"/>
+              <roadposition x="45" y="120"/>
+            </path>
+            <path>
+              <!--right angle southbound right lane-->
+              <roadposition x="0" y="100"/>
+              <roadposition x="10" y="100"/>
+              <roadposition x="20" y="100"/>
+              <roadposition x="20" y="107"/>
+              <roadposition x="20" y="115"/>
+              <roadposition x="20" y="120"/>
+            </path>
+            <path>
+              <!--right angle eastbound right lane-->
+              <roadposition x="100" y="120"/>
+              <roadposition x="100" y="109"/>
+              <roadposition x="100" y="99"/>
+              <roadposition x="100" y="89"/>
+              <roadposition x="100" y="79"/>
+              <roadposition x="100" y="69"/>
+              <roadposition x="100" y="59"/>
+              <roadposition x="100" y="49"/>
+              <roadposition x="100" y="39"/>
+              <roadposition x="100" y="29"/>
+              <roadposition x="100" y="25"/>
+              <roadposition x="100" y="20"/>
+              <roadposition x="90" y="20"/>
+              <roadposition x="80" y="20"/>
+              <roadposition x="70" y="20"/>
+              <roadposition x="60" y="20"/>
+              <roadposition x="50" y="20"/>
+              <roadposition x="40" y="20"/>
+              <roadposition x="30" y="20"/>
+              <roadposition x="20" y="20"/>
+              <roadposition x="10" y="20"/>
+              <roadposition x="0" y="20"/>
+            </path>
+            <path>
+              <!--right angle eastbound left lane-->
+              <roadposition x="70" y="120"/>
+              <roadposition x="70" y="109"/>
+              <roadposition x="70" y="99"/>
+              <roadposition x="70" y="89"/>
+              <roadposition x="70" y="79"/>
+              <roadposition x="70" y="69"/>
+              <roadposition x="70" y="60"/>
+              <roadposition x="70" y="52"/>
+              <roadposition x="70" y="45"/>
+              <roadposition x="65" y="45"/>
+              <roadposition x="56" y="45"/>
+              <roadposition x="47" y="45"/>
+              <roadposition x="38" y="45"/>
+              <roadposition x="29" y="45"/>
+              <roadposition x="20" y="45"/>
+              <roadposition x="10" y="45"/>
+              <roadposition x="0" y="45"/>
+            </path>
+        </paths>
+        <paths lanes="3">
+            <path>
+              <!--right angle southbound rightmost lane-->
+              <roadposition x="0" y="103"/>
+              <roadposition x="10" y="103"/>
+              <roadposition x="13" y="103"/>
+              <roadposition x="13" y="110"/>
+              <roadposition x="13" y="120"/>
+            </path>
+            <path>
+              <!--right angle southbound middle lane-->
+              <roadposition x="0" y="86"/>
+              <roadposition x="10" y="86"/>
+              <roadposition x="20" y="86"/>
+              <roadposition x="30" y="86"/>
+              <roadposition x="33" y="86"/>
+              <roadposition x="33" y="95"/>
+              <roadposition x="33" y="105"/>
+              <roadposition x="33" y="115"/>
+              <roadposition x="33" y="120"/>
+            </path>
+            <path>
+              <!--right angle southbound rightmost lane-->
+              <roadposition x="0" y="67"/>
+              <roadposition x="10" y="67"/>
+              <roadposition x="21" y="67"/>
+              <roadposition x="31" y="67"/>
+              <roadposition x="41" y="67"/>
+              <roadposition x="52" y="67"/>
+              <roadposition x="52" y="74"/>
+              <roadposition x="52" y="84"/>
+              <roadposition x="52" y="94"/>
+              <roadposition x="52" y="104"/>
+              <roadposition x="52" y="114"/>
+              <roadposition x="52" y="120"/>
+            </path>
+            <path>
+              <!--right angle westbound leftmost lane -->
+              <roadposition x="67" y="120"/>
+              <roadposition x="67" y="110"/>
+              <roadposition x="67" y="100"/>
+              <roadposition x="67" y="90"/>
+              <roadposition x="67" y="80"/>
+              <roadposition x="67" y="72"/>
+              <roadposition x="67" y="63"/>
+              <roadposition x="67" y="52"/>
+              <roadposition x="57" y="52"/>
+              <roadposition x="49" y="52"/>
+              <roadposition x="40" y="52"/>
+              <roadposition x="30" y="52"/>
+              <roadposition x="20" y="52"/>
+              <roadposition x="10" y="52"/>
+              <roadposition x="0" y="52"/>
+            </path>
+            <path>
+              <!--right angle westbound middle lane -->
+              <roadposition x="86" y="120"/>
+              <roadposition x="86" y="110"/>
+              <roadposition x="86" y="100"/>
+              <roadposition x="86" y="90"/>
+              <roadposition x="86" y="80"/>
+              <roadposition x="86" y="70"/>
+              <roadposition x="86" y="60"/>
+              <roadposition x="86" y="50"/>
+              <roadposition x="86" y="45"/>
+              <roadposition x="86" y="40"/>
+              <roadposition x="86" y="33"/>
+              <roadposition x="80" y="33"/>
+              <roadposition x="70" y="33"/>
+              <roadposition x="60" y="33"/>
+              <roadposition x="50" y="33"/>
+              <roadposition x="40" y="33"/>
+              <roadposition x="30" y="33"/>
+              <roadposition x="20" y="33"/>
+              <roadposition x="10" y="33"/>
+              <roadposition x="0" y="33"/>
+            </path>
+            <path>
+              <!--right angle westbound rightmost lane -->
+              <roadposition x="103" y="120"/>
+              <roadposition x="103" y="110"/>
+              <roadposition x="103" y="100"/>
+              <roadposition x="103" y="90"/>
+              <roadposition x="103" y="80"/>
+              <roadposition x="103" y="70"/>
+              <roadposition x="103" y="60"/>
+              <roadposition x="103" y="50"/>
+              <roadposition x="103" y="40"/>
+              <roadposition x="103" y="30"/>
+              <roadposition x="103" y="20"/>
+              <roadposition x="103" y="13"/>
+              <roadposition x="94" y="13"/>
+              <roadposition x="84" y="13"/>
+              <roadposition x="74" y="13"/>
+              <roadposition x="64" y="13"/>
+              <roadposition x="54" y="13"/>
+              <roadposition x="44" y="13"/>
+              <roadposition x="34" y="13"/>
+              <roadposition x="24" y="13"/>
+              <roadposition x="14" y="13"/>
+              <roadposition x="0" y="13"/>
+            </path>
+        </paths>
+    </pathList>
+</tileinfo>

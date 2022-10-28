@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProCPTestAppTiles.Form1" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.Graphs" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAQAACAABARAAACAAAwjAQAAJAAAICAAAAAAAAA=</HashCode>
+      <FileName>Graphs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.HeatMap" Collapsed="true">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAACAAAAQAQACAAAACAACAEAAEAAAQQABAAAA=</HashCode>
+      <FileName>HeatMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.Program" Collapsed="true">
+    <Position X="26" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.mapcreatorform.board.BoardControl">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAAAAAIAQAAAAAAAAAAAAAQBAAAAACAAAA=</HashCode>
+      <FileName>forms\mapcreatorform\board\BoardControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.mapcreatorform.board.tiles.TileControl" Collapsed="true">
+    <Position X="28.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\mapcreatorform\board\tiles\TileControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.mapcreatorform.MapCreatorControl">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>forms\mapcreatorform\MapCreatorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.mapcreatorform.tileblockboard.TileBlockBoardControl" Collapsed="true">
+    <Position X="27.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>forms\mapcreatorform\tileblockboard\TileBlockBoardControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.mapcreatorform.tileblockboard.tileblocks.TileBlockControl" Collapsed="true">
+    <Position X="26.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\mapcreatorform\tileblockboard\tileblocks\TileBlockControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.menustrip.SimContextMenuStrip" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAFAAAAAAAAAAIAAEAQAAAAAgAAIAAAAAAAAAAA=</HashCode>
+      <FileName>forms\menustrip\SimContextMenuStrip.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.menustrip.SimMenuStrip" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIFAAAAQAAAgIAAAAAQAAAEAgIAAAgAAAAgAACA=</HashCode>
+      <FileName>forms\menustrip\SimMenuStrip.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.simulationform.SimulationControl" Collapsed="true" HideInheritanceLine="true">
+    <Position X="30.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAIQAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>forms\simulationform\SimulationControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.simulationform.simulationmap.SimulationMapControl" Collapsed="true" HideInheritanceLine="true">
+    <Position X="27.75" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\simulationform\simulationmap\SimulationMapControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.tileconfigform.TileConfigControl" Collapsed="true" HideInheritanceLine="true">
+    <Position X="24.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\tileconfigform\TileConfigControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.tileconfigform.tileconfiginputcontrol.TileConfigInputControl">
+    <Position X="9.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\tileconfigform\tileconfiginputcontrol\TileConfigInputControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.forms.tileconfigform.tileconfiginputcontrol.trafficlightconfigcontrol.TrafficLightConfigControl">
+    <Position X="13.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>forms\tileconfigform\tileconfiginputcontrol\trafficlightconfigcontrol\TrafficLightConfigControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.heatmap.ColorUtil" Collapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAAAAACJAAAAgAAQAAAAgACAAAAAAAAQAAA=</HashCode>
+      <FileName>heatmap\ColorUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.heatmap.HeatMapMaker" Collapsed="true">
+    <Position X="27.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAABAAAACAAACAAAEAAAAACAAAAgAACAAAAAAA=</HashCode>
+      <FileName>heatmap\HeatMapMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.heatmap.HeatPoint" Collapsed="true">
+    <Position X="29.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYAA=</HashCode>
+      <FileName>heatmap\HeatPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.BoardDao" BaseTypeListCollapsed="true">
+    <Position X="42" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\BoardDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.DaoFactory">
+    <Position X="43.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>RCAAAAAAABQAAgAAAAAAQAAAEAAAABAAABCAACgEAAA=</HashCode>
+      <FileName>orm\dao\DaoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.IntersectionTrafficLightLogicDao" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\IntersectionTrafficLightLogicDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.LifeDao" BaseTypeListCollapsed="true">
+    <Position X="45.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>orm\dao\LifeDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.MapCreatorDao" BaseTypeListCollapsed="true">
+    <Position X="38.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>orm\dao\MapCreatorDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.PathDao" BaseTypeListCollapsed="true">
+    <Position X="46.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>orm\dao\PathDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.PathsDao" BaseTypeListCollapsed="true">
+    <Position X="40.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\PathsDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.QueueDao" BaseTypeListCollapsed="true">
+    <Position X="46.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\QueueDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.RoadGridDao" BaseTypeListCollapsed="true">
+    <Position X="42" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\RoadGridDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.RoadPositionDao" BaseTypeListCollapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>orm\dao\RoadPositionDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.SimulationDao" BaseTypeListCollapsed="true">
+    <Position X="40.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAACAAAAA=</HashCode>
+      <FileName>orm\dao\SimulationDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.SimulationMapDao" BaseTypeListCollapsed="true">
+    <Position X="38.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgIAAAAAAAgAAAAAAQAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\SimulationMapDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.TileDao" BaseTypeListCollapsed="true">
+    <Position X="40.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAABAAAgAAAAAAAAAAAAAAABAAAAAAAAAEAAA=</HashCode>
+      <FileName>orm\dao\TileDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.dao.TrafficLightDao" BaseTypeListCollapsed="true">
+    <Position X="42" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>orm\dao\TrafficLightDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.orm.ORMManager">
+    <Position X="43.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAEAAAQAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\ORMManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.Properties.Resources" Collapsed="true">
+    <Position X="30.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.Properties.Settings" Collapsed="true">
+    <Position X="29.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.Position" Collapsed="true">
+    <Position X="24.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAkAAAAAAAAAACAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>simulation\entities\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.life.Car">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAgAAAgABAAAAAAAAAAAoAAAAAAEAAAA=</HashCode>
+      <FileName>simulation\entities\life\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.life.Life">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="ProCPTestAppTiles.simulation.entities.life.Life.finishedPathDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>simulation\entities\life\Life.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEgJCYAAAqCAAiAEAQCAggCAARBIACEIBBSEBAAIUAI=</HashCode>
+      <FileName>simulation\entities\life\Life.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.board.Board">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAgAAAAAAggAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\board\Board.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.board.BoardConstants" Collapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAABAAAAAAMAAEAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\board\BoardConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.board.tile.Tile">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCARAIAEASFAQIAEkAiABABAIAgAABAAIgQCAEBgAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\board\tile\Tile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.board.tile.TileConstants" Collapsed="true">
+    <Position X="34.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\board\tile\TileConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.MapCreator">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="ProCPTestAppTiles.simulation.logiccontrolpattern.Attachable&lt;TControl&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="12.859" Y="0.5" />
+        <Point X="12.859" Y="0.188" />
+        <Point X="19.875" Y="0.188" />
+        <Point X="19.875" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAQAAAAgoAAAAAAAEAgAABAEIACCAAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\MapCreator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.MapCreatorConstants" Collapsed="true">
+    <Position X="32.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\MapCreatorConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.tileblockboard.tileblock.TileBlock">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAABAABAQCAAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\tileblockboard\tileblock\TileBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.tileblockboard.tileblock.TileBlockConstants" Collapsed="true">
+    <Position X="30.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\tileblockboard\tileblock\TileBlockConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.mapcreator.tileblockboard.TileBlockBoard">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>simulation\entities\mapcreator\tileblockboard\TileBlockBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.paths.Path" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAIIAACAAAgAAAAACAAAAAEBAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\paths\Path.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.paths.Paths" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>simulation\entities\paths\Paths.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.CrashReport" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAIAQAAAAICAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\road\CrashReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.RoadGrid" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAAAAAAAAAAAAAAIAAAEAAAABAAAgAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\road\RoadGrid.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.RoadPosition" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAwAAAAAEAAAAYAAAAABAAAEYAAAAEAgAAAA=</HashCode>
+      <FileName>simulation\entities\road\RoadPosition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.184" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.events.crash.Crash" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAA=</HashCode>
+      <FileName>simulation\entities\road\events\crash\Crash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.trafficlight.IntersectionTrafficLightLogic" BaseTypeListCollapsed="true">
+    <Position X="16" Y="8.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABIgAADQAQAGAAAAAhAAAAAAAAAAAIAACAEAAAAA=</HashCode>
+      <FileName>simulation\entities\road\trafficlight\IntersectionTrafficLightLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.trafficlight.TrafficLight" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="ProCPTestAppTiles.simulation.entities.road.trafficlight.TrafficLight.StateChanged" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>simulation\entities\road\trafficlight\TrafficLight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAIIAAAAAAAhAEAAADACAAAARAACAEAAAgBABAgAA=</HashCode>
+      <FileName>simulation\entities\road\trafficlight\TrafficLight.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="roadPosition" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.road.trafficlight.TrafficLightEventArgs" Collapsed="true">
+    <Position X="33" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAggAAAIMAAAAAAAAAIAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>simulation\entities\road\trafficlight\TrafficLightEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.simulation.Simulation">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBwAAIACACEIEgBEYABEAAAACAgAAAAAIAAiAEgCgEQ=</HashCode>
+      <FileName>simulation\entities\simulation\Simulation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.simulation.SimulationConstants" Collapsed="true">
+    <Position X="34.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAIIAAAAA=</HashCode>
+      <FileName>simulation\entities\simulation\SimulationConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.simulation.simulationmap.SimulationMap">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwAEIAAACBEMAAAAACBCQAAGioAAABFIACCAMAAgAI=</HashCode>
+      <FileName>simulation\entities\simulation\simulationmap\SimulationMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.TileConfig">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="ProCPTestAppTiles.simulation.logiccontrolpattern.Attachable&lt;TControl&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="12.25" Y="0.5" />
+        <Point X="12.25" Y="0.188" />
+        <Point X="21.625" Y="0.188" />
+        <Point X="21.625" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAIAAAAAABAAAAAAABGAAACgCAAAQIABSQAAQgAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\TileConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.TileConfigConstants" Collapsed="true">
+    <Position X="30.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAgBACAAAAAAECAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\TileConfigConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.TileConfigData" Collapsed="true">
+    <Position X="33" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAQAAAAgAgAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\TileConfigData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.tileconfiginput.TileConfigInput">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAACAAAgAGAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\tileconfiginput\TileConfigInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.tileconfiginput.TileConfigInputConstants" Collapsed="true">
+    <Position X="34.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\tileconfiginput\TileConfigInputConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.tileconfiginput.trafficlightconfig.TrafficLightConfig">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAECEAAAAAEAEAAgAAAAAAQACAAAAAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\tileconfiginput\trafficlightconfig\TrafficLightConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.entities.tileconfig.tileconfiginput.trafficlightconfig.TrafficLightConfigConstants" Collapsed="true">
+    <Position X="30.25" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\tileconfig\tileconfiginput\trafficlightconfig\TrafficLightConfigConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.Queue" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAAAAABABAQAAAAAAAAAAAAAASAAAAA=</HashCode>
+      <FileName>simulation\Queue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.SimulationStatistics" Collapsed="true">
+    <Position X="24.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIkAAAAAAAAAAELACAABAAAAAAEmEAAAAAAAE=</HashCode>
+      <FileName>simulation\SimulationStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.logiccontrolpattern.Attachable&lt;TControl&gt;">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAQAAAhEAAAAIAAAQAIAgAgAAAAAACAAAAAAQ=</HashCode>
+      <FileName>simulation\logiccontrolpattern\Attachable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.simulation.logiccontrolpattern.ButtonControllable&lt;TLogic&gt;" Collapsed="true">
+    <Position X="27.75" Y="9.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>simulation\logiccontrolpattern\ButtonControllable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.astar.AStarPathFinder" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAIQAEAAAAJAEAAABQAAgAAAgAAKAEAEAAAAAAAgI=</HashCode>
+      <FileName>utils\astar\AStarPathFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.astar.Node" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAACgQEAAAAAAAAAAAAAAAAAABAEAAAAAE=</HashCode>
+      <FileName>utils\astar\Node.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.ResourceUtils" Collapsed="true">
+    <Position X="33" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAABAQBAAAAAAAIAABIAAAAhAAQiCABgA=</HashCode>
+      <FileName>utils\ResourceUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.Utils" Collapsed="true">
+    <Position X="35" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAQEAABAIAAAgABAAAgAEAAAAAAAABQAEAAAAAA=</HashCode>
+      <FileName>utils\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.tile.PathFinderUtils" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>utils\tile\PathFinderUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.tile.RoadXMLReader" Collapsed="true">
+    <Position X="27.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>utils\tile\RoadXMLReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProCPTestAppTiles.utils.tile.TileUtils" Collapsed="true">
+    <Position X="26" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAACAAAEAAAAACAAAAAAAAEFAAAAAAACAAA=</HashCode>
+      <FileName>utils\tile\TileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProCPTestAppTiles.orm.dao.IDao&lt;T&gt;">
+    <Position X="38.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\dao\IDao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProCPTestAppTiles.orm.ISaveable">
+    <Position X="42" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>orm\ISaveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProCPTestAppTiles.simulation.entities.IDrawable" Collapsed="true">
+    <Position X="29.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProCPTestAppTiles.simulation.IAttachable" Collapsed="true">
+    <Position X="24.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>simulation\IAttachable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProCPTestAppTiles.simulation.logiccontrolpattern.IAttachable&lt;TControl&gt;" Collapsed="true">
+    <Position X="26" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQAAAAEAAAAAAAAQAIAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>simulation\logiccontrolpattern\IAttachable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ProCPTestAppTiles.enums.DirectionType" Collapsed="true">
+    <Position X="26" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>enums\DirectionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProCPTestAppTiles.enums.FlowType" Collapsed="true">
+    <Position X="27.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enums\FlowType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProCPTestAppTiles.heatmap.ColorRamp" Collapsed="true">
+    <Position X="24.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>heatmap\ColorUtil.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProCPTestAppTiles.simulation.entities.road.RoadType" Collapsed="true">
+    <Position X="29.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAABAAAAAAAAAAAAAgAIAA=</HashCode>
+      <FileName>simulation\entities\road\RoadType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProCPTestAppTiles.simulation.entities.road.trafficlight.TrafficLightState" Collapsed="true">
+    <Position X="31.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>simulation\entities\road\trafficlight\TrafficLightState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

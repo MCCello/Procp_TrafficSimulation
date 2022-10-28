@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tileinfo>
+    <grids>
+        <grid lanes="1">
+            <roadposition x="70" y="0"/>
+            <roadposition x="70" y="10"/>
+            <roadposition x="70" y="20"/>
+            <roadposition x="70" y="30"/>
+            <roadposition x="70" y="40"/>
+            <roadposition x="70" y="50"/>
+            <roadposition x="70" y="60"/>
+            <roadposition x="70" y="70"/>
+            <roadposition x="70" y="80"/>
+            <roadposition x="70" y="90"/>
+            <roadposition x="70" y="100"/>
+            <roadposition x="70" y="110"/>
+            <roadposition x="70" y="120"/>
+
+            
+            <roadposition x="49" y="0"/>
+            <roadposition x="49" y="10"/>
+            <roadposition x="49" y="20"/>
+            <roadposition x="49" y="30"/>
+            <roadposition x="49" y="40"/>
+            <roadposition x="49" y="50"/>
+            <roadposition x="49" y="60"/>
+            <roadposition x="49" y="70"/>
+            <roadposition x="49" y="80"/>
+            <roadposition x="49" y="90"/>
+            <roadposition x="49" y="100"/>
+            <roadposition x="49" y="110"/>
+            <roadposition x="49" y="120"/>
+        </grid>
+        <grid lanes="2">
+            <roadposition x="65" y="0"/>
+            <roadposition x="65" y="10"/>
+            <roadposition x="65" y="20"/>
+            <roadposition x="65" y="30"/>
+            <roadposition x="65" y="40"/>
+            <roadposition x="65" y="50"/>
+            <roadposition x="65" y="60"/>
+            <roadposition x="65" y="70"/>
+            <roadposition x="65" y="80"/>
+            <roadposition x="65" y="90"/>
+            <roadposition x="65" y="100"/>
+            <roadposition x="65" y="110"/>
+            <roadposition x="65" y="120"/>
+
+            <roadposition x="74" y="0"/>
+            <roadposition x="74" y="10"/>
+            <roadposition x="74" y="20"/>
+            <roadposition x="74" y="30"/>
+            <roadposition x="74" y="40"/>
+            <roadposition x="74" y="50"/>
+            <roadposition x="74" y="60"/>
+            <roadposition x="74" y="70"/>
+            <roadposition x="74" y="80"/>
+            <roadposition x="74" y="90"/>
+            <roadposition x="74" y="100"/>
+            <roadposition x="74" y="110"/>
+            <roadposition x="74" y="120"/>
+
+            
+            <roadposition x="45" y="0"/>
+            <roadposition x="45" y="10"/>
+            <roadposition x="45" y="20"/>
+            <roadposition x="45" y="30"/>
+            <roadposition x="45" y="40"/>
+            <roadposition x="45" y="50"/>
+            <roadposition x="45" y="60"/>
+            <roadposition x="45" y="70"/>
+            <roadposition x="45" y="80"/>
+            <roadposition x="45" y="90"/>
+            <roadposition x="45" y="100"/>
+            <roadposition x="45" y="110"/>
+            <roadposition x="45" y="120"/>
+
+            <roadposition x="54" y="0"/>
+            <roadposition x="54" y="10"/>
+            <roadposition x="54" y="20"/>
+            <roadposition x="54" y="30"/>
+            <roadposition x="54" y="40"/>
+            <roadposition x="54" y="50"/>
+            <roadposition x="54" y="60"/>
+            <roadposition x="54" y="70"/>
+            <roadposition x="54" y="80"/>
+            <roadposition x="54" y="90"/>
+            <roadposition x="54" y="100"/>
+            <roadposition x="54" y="110"/>
+            <roadposition x="54" y="120"/>
+        </grid>
+        <grid lanes="3">
+            <roadposition x="64" y="0"/>
+            <roadposition x="64" y="10"/>
+            <roadposition x="64" y="20"/>
+            <roadposition x="64" y="30"/>
+            <roadposition x="64" y="40"/>
+            <roadposition x="64" y="50"/>
+            <roadposition x="64" y="60"/>
+            <roadposition x="64" y="70"/>
+            <roadposition x="64" y="80"/>
+            <roadposition x="64" y="90"/>
+            <roadposition x="64" y="100"/>
+            <roadposition x="64" y="110"/>
+            <roadposition x="64" y="120"/>
+
+            <roadposition x="69" y="0"/>
+            <roadposition x="69" y="10"/>
+            <roadposition x="69" y="20"/>
+            <roadposition x="69" y="30"/>
+            <roadposition x="69" y="40"/>
+            <roadposition x="69" y="50"/>
+            <roadposition x="69" y="60"/>
+            <roadposition x="69" y="70"/>
+            <roadposition x="69" y="80"/>
+            <roadposition x="69" y="90"/>
+            <roadposition x="69" y="100"/>
+            <roadposition x="69" y="110"/>
+            <roadposition x="69" y="120"/>
+
+            <roadposition x="74" y="0"/>
+            <roadposition x="74" y="10"/>
+            <roadposition x="74" y="20"/>
+            <roadposition x="74" y="30"/>
+            <roadposition x="74" y="40"/>
+            <roadposition x="74" y="50"/>
+            <roadposition x="74" y="60"/>
+            <roadposition x="74" y="70"/>
+            <roadposition x="74" y="80"/>
+            <roadposition x="74" y="90"/>
+            <roadposition x="74" y="100"/>
+            <roadposition x="74" y="110"/>
+            <roadposition x="74" y="120"/>
+
+            
+            <roadposition x="45" y="0"/>
+            <roadposition x="45" y="10"/>
+            <roadposition x="45" y="20"/>
+            <roadposition x="45" y="30"/>
+            <roadposition x="45" y="40"/>
+            <roadposition x="45" y="50"/>
+            <roadposition x="45" y="60"/>
+            <roadposition x="45" y="70"/>
+            <roadposition x="45" y="80"/>
+            <roadposition x="45" y="90"/>
+            <roadposition x="45" y="100"/>
+            <roadposition x="45" y="110"/>
+            <roadposition x="45" y="120"/>
+
+            <roadposition x="50" y="0"/>
+            <roadposition x="50" y="10"/>
+            <roadposition x="50" y="20"/>
+            <roadposition x="50" y="30"/>
+            <roadposition x="50" y="40"/>
+            <roadposition x="50" y="50"/>
+            <roadposition x="50" y="60"/>
+            <roadposition x="50" y="70"/>
+            <roadposition x="50" y="80"/>
+            <roadposition x="50" y="90"/>
+            <roadposition x="50" y="100"/>
+            <roadposition x="50" y="110"/>
+            <roadposition x="50" y="120"/>
+
+            <roadposition x="55" y="0"/>
+            <roadposition x="55" y="10"/>
+            <roadposition x="55" y="20"/>
+            <roadposition x="55" y="30"/>
+            <roadposition x="55" y="40"/>
+            <roadposition x="55" y="50"/>
+            <roadposition x="55" y="60"/>
+            <roadposition x="55" y="70"/>
+            <roadposition x="55" y="80"/>
+            <roadposition x="55" y="90"/>
+            <roadposition x="55" y="100"/>
+            <roadposition x="55" y="110"/>
+            <roadposition x="55" y="120"/>
+        </grid>
+    </grids>
+    <pathList>
+        <paths lanes="1">
+            <path>
+                <roadposition x="70" y="120"/>
+                <roadposition x="70" y="110"/>
+                <roadposition x="70" y="100"/>
+                <roadposition x="70" y="90"/>
+                <roadposition x="70" y="80"/>
+                <roadposition x="70" y="70"/>
+                <roadposition x="70" y="60"/>
+                <roadposition x="70" y="50"/>
+                <roadposition x="70" y="40"/>
+                <roadposition x="70" y="30"/>
+                <roadposition x="70" y="20"/>
+                <roadposition x="70" y="10"/>
+                <roadposition x="70" y="0"/>
+            </path>
+            <path>
+                <roadposition x="49" y="0"/>
+                <roadposition x="49" y="10"/>
+                <roadposition x="49" y="20"/>
+                <roadposition x="49" y="30"/>
+                <roadposition x="49" y="40"/>
+                <roadposition x="49" y="50"/>
+                <roadposition x="49" y="60"/>
+                <roadposition x="49" y="70"/>
+                <roadposition x="49" y="80"/>
+                <roadposition x="49" y="90"/>
+                <roadposition x="49" y="100"/>
+                <roadposition x="49" y="110"/>
+                <roadposition x="49" y="120"/>
+            </path>
+        </paths>
+        <paths lanes="2">
+            <path>
+                <roadposition x="65" y="120"/>
+                <roadposition x="65" y="110"/>
+                <roadposition x="65" y="100"/>
+                <roadposition x="65" y="90"/>
+                <roadposition x="65" y="80"/>
+                <roadposition x="65" y="70"/>
+                <roadposition x="65" y="60"/>
+                <roadposition x="65" y="50"/>
+                <roadposition x="65" y="40"/>
+                <roadposition x="65" y="30"/>
+                <roadposition x="65" y="20"/>
+                <roadposition x="65" y="10"/>
+                <roadposition x="65" y="0"/>
+            </path>
+            <path>
+                <roadposition x="74" y="120"/>
+                <roadposition x="74" y="110"/>
+                <roadposition x="74" y="100"/>
+                <roadposition x="74" y="90"/>
+                <roadposition x="74" y="80"/>
+                <roadposition x="74" y="70"/>
+                <roadposition x="74" y="60"/>
+                <roadposition x="74" y="50"/>
+                <roadposition x="74" y="40"/>
+                <roadposition x="74" y="30"/>
+                <roadposition x="74" y="20"/>
+                <roadposition x="74" y="10"/>
+                <roadposition x="74" y="0"/>
+            </path>
+            <path>
+                <roadposition x="45" y="0"/>
+                <roadposition x="45" y="10"/>
+                <roadposition x="45" y="20"/>
+                <roadposition x="45" y="30"/>
+                <roadposition x="45" y="40"/>
+                <roadposition x="45" y="50"/>
+                <roadposition x="45" y="60"/>
+                <roadposition x="45" y="70"/>
+                <roadposition x="45" y="80"/>
+                <roadposition x="45" y="90"/>
+                <roadposition x="45" y="100"/>
+                <roadposition x="45" y="110"/>
+                <roadposition x="45" y="120"/>
+            </path>
+            <path>
+                <roadposition x="54" y="0"/>
+                <roadposition x="54" y="10"/>
+                <roadposition x="54" y="20"/>
+                <roadposition x="54" y="30"/>
+                <roadposition x="54" y="40"/>
+                <roadposition x="54" y="50"/>
+                <roadposition x="54" y="60"/>
+                <roadposition x="54" y="70"/>
+                <roadposition x="54" y="80"/>
+                <roadposition x="54" y="90"/>
+                <roadposition x="54" y="100"/>
+                <roadposition x="54" y="110"/>
+                <roadposition x="54" y="120"/>
+            </path>
+        </paths>
+        <paths lanes="3">
+            <path>
+                <roadposition x="64" y="120"/>
+                <roadposition x="64" y="110"/>
+                <roadposition x="64" y="100"/>
+                <roadposition x="64" y="90"/>
+                <roadposition x="64" y="80"/>
+                <roadposition x="64" y="70"/>
+                <roadposition x="64" y="60"/>
+                <roadposition x="64" y="50"/>
+                <roadposition x="64" y="40"/>
+                <roadposition x="64" y="30"/>
+                <roadposition x="64" y="20"/>
+                <roadposition x="64" y="10"/>
+                <roadposition x="64" y="0"/>
+            </path>
+            <path>
+                <roadposition x="69" y="120"/>
+                <roadposition x="69" y="110"/>
+                <roadposition x="69" y="100"/>
+                <roadposition x="69" y="90"/>
+                <roadposition x="69" y="80"/>
+                <roadposition x="69" y="70"/>
+                <roadposition x="69" y="60"/>
+                <roadposition x="69" y="50"/>
+                <roadposition x="69" y="40"/>
+                <roadposition x="69" y="30"/>
+                <roadposition x="69" y="20"/>
+                <roadposition x="69" y="10"/>
+                <roadposition x="69" y="0"/>
+            </path>
+            <path>
+                <roadposition x="74" y="120"/>
+                <roadposition x="74" y="110"/>
+                <roadposition x="74" y="100"/>
+                <roadposition x="74" y="90"/>
+                <roadposition x="74" y="80"/>
+                <roadposition x="74" y="70"/>
+                <roadposition x="74" y="60"/>
+                <roadposition x="74" y="50"/>
+                <roadposition x="74" y="40"/>
+                <roadposition x="74" y="30"/>
+                <roadposition x="74" y="20"/>
+                <roadposition x="74" y="10"/>
+                <roadposition x="74" y="0"/>
+            </path>
+            <path>
+                <roadposition x="45" y="0"/>
+                <roadposition x="45" y="10"/>
+                <roadposition x="45" y="20"/>
+                <roadposition x="45" y="30"/>
+                <roadposition x="45" y="40"/>
+                <roadposition x="45" y="50"/>
+                <roadposition x="45" y="60"/>
+                <roadposition x="45" y="70"/>
+                <roadposition x="45" y="80"/>
+                <roadposition x="45" y="90"/>
+                <roadposition x="45" y="100"/>
+                <roadposition x="45" y="110"/>
+                <roadposition x="45" y="120"/>
+            </path>
+            <path>
+                <roadposition x="50" y="0"/>
+                <roadposition x="50" y="10"/>
+                <roadposition x="50" y="20"/>
+                <roadposition x="50" y="30"/>
+                <roadposition x="50" y="40"/>
+                <roadposition x="50" y="50"/>
+                <roadposition x="50" y="60"/>
+                <roadposition x="50" y="70"/>
+                <roadposition x="50" y="80"/>
+                <roadposition x="50" y="90"/>
+                <roadposition x="50" y="100"/>
+                <roadposition x="50" y="110"/>
+                <roadposition x="50" y="120"/>
+            </path>
+            <path>
+                <roadposition x="55" y="0"/>
+                <roadposition x="55" y="10"/>
+                <roadposition x="55" y="20"/>
+                <roadposition x="55" y="30"/>
+                <roadposition x="55" y="40"/>
+                <roadposition x="55" y="50"/>
+                <roadposition x="55" y="60"/>
+                <roadposition x="55" y="70"/>
+                <roadposition x="55" y="80"/>
+                <roadposition x="55" y="90"/>
+                <roadposition x="55" y="100"/>
+                <roadposition x="55" y="110"/>
+                <roadposition x="55" y="120"/>
+            </path>
+        </paths>
+    </pathList>
+</tileinfo>
